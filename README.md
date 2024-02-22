@@ -13,4 +13,4 @@ Awesome works of 3D Human Motion. Papers/projects/codes including motion generat
 # Datasets:
 
 High fildelity 2D datasets
-> **Hierarchical Generation of Human-Object Interactions with Diffusion Probabilistic Models** [[paper](https://arxiv.org/pdf/2103.03319v1.pdf)][[project]](https://github.com/zju3dv/hghoi/tree/main).
+>TikTok Dataset **Hierarchical Generation of Human-Object Interactions with Diffusion Probabilistic Models** [[paper](https://arxiv.org/pdf/2103.03319v1.pdf)][[project]](https://github.com/zju3dv/hghoi/tree/main).
