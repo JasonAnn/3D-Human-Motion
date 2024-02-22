@@ -1,4 +1,4 @@
-# 3D-Human-Motion
+# Human-Motion
 Awesome works of 3D Human Motion. Papers/projects/codes including motion generation, retarget, style transfer, datasets, representation, etc
 
 **ICCV2023**
@@ -9,3 +9,8 @@ Awesome works of 3D Human Motion. Papers/projects/codes including motion generat
 >
 **ICCV2023**
 > **MDM: Human Motion Diffusion Model** [[paper](https://arxiv.org/abs/2209.14916)][[code](https://guytevet.github.io/mdm-page/)]
+
+# Datasets:
+
+High fildelity 2D datasets
+> **Hierarchical Generation of Human-Object Interactions with Diffusion Probabilistic Models** [[paper](https://arxiv.org/pdf/2103.03319v1.pdf)][[project]([https://github.com/zju3dv/hghoi/tree/main]
