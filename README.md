@@ -10,9 +10,19 @@ Awesome works of 3D Human Motion. Papers/projects/codes including motion generat
 **ICCV2023**
 > **MDM: Human Motion Diffusion Model** [[paper](https://arxiv.org/abs/2209.14916)][[code](https://guytevet.github.io/mdm-page/)]
 
+**AAAI2023**
+>  **FLAME: Free-form Language-based Motion Synthesis & Editing** [[project](https://kakaobrain.github.io/flame/)]
+> 
 **ICLR2024**
 > **PriorMDM: Human Motion Diffusion as a Generative Prior** [[project](https://priormdm.github.io/priorMDM-page/)]
- 
+
+**Arxiv**
+> **MAS: Multi-view Ancestral Sampling for 3D motion generation using 2D diffusion** [[project](https://guytevet.github.io/mas-page/)]
+>
+
+> 
+> 
+
 
 # Datasets:
 
