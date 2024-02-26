@@ -16,7 +16,7 @@ Awesome works of 3D Human Motion. Papers/projects/codes including motion generat
 **ICLR2024**
 > **PriorMDM: Human Motion Diffusion as a Generative Prior** [[project](https://priormdm.github.io/priorMDM-page/)]
 > 
-> ** Generative Human Motion Stylization in Latent Space** [[project](https://yxmu.foo/GenMoStyle/)]
+> **Generative Human Motion Stylization in Latent Space** [[project](https://yxmu.foo/GenMoStyle/)]
 
 **Arxiv**
 > **MAS: Multi-view Ancestral Sampling for 3D motion generation using 2D diffusion** [[project](https://guytevet.github.io/mas-page/)]
